@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Ryan Wesslen</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Ryan Wesslen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ryan Wesslen</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Explainable AI: Opening up the black box</title>
+      <link>/talk/xai-davidson/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/xai-davidson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Visualizations with RStudio Workshops</title>
+      <link>/talk/dsi-interactive-viz/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/dsi-interactive-viz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,101 @@
+---
+title: "NC Senate Tweets"
+author: "Ryan Wesslen"
+date: 2018-10-23T21:13:14-05:00
+categories: ["R"]
+tags: ["twitter", "senate", "ncga"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, message=FALSE)
+library(tidyverse)
+load("./data/ncga-senate-102018.RData")
+
+df$screen_name <- df$twitterUsername
+
+t <- tweets %>%
+  select(created_at, text, screen_name, retweet_count) %>%
+  left_join(df[,c(1:7,18)], c("screen_name"))
+
+t <- filter(t, !is.na(Party)) %>%
+  filter(Incumbent != "Not Running")
+```
+
+# R Markdown
+
+I have a dataset of 58,120 tweets by 72 NC Senate candidates (43 Democrats, 29 Republicans). 
+
+```{r echo=FALSE, message=FALSE}
+library(rtweet)
+
+ts_plot(t, by = "months") +
+  labs(x = "Time", y = "Tweet Count", title = "Tweets by NCGA Senate Candidates")
+```
+
+# Tweet by Party
+
+Figure \@ref(fig:chart) provides the tweets by political party.
+
+```{r chart, echo=FALSE, fig.cap='Tweets by party.', tidy=FALSE}
+t %>%
+  group_by(Party) %>%
+  ts_plot("months") +
+  scale_color_manual(values = c("blue","red")) +
+  labs(x = "Time", y = "Tweet Count", title = " ") +
+  theme(legend.position = c(0.3,0.8))
+```
+
+
+```{r echo=FALSE, fig.cap='Tweets by active districts.', tidy=FALSE}
+t %>%
+  filter(created_at > "2018-01-01 00:00:00") %>%
+  filter(District2018 %in% c(13,14,19,22,30,37,39,43,49)) %>%
+  mutate(District = paste0("District ",District2018)) %>%
+  group_by(Party, District) %>%
+  ts_plot("months") +
+  geom_point(size = 1) +
+  facet_wrap(~District) +
+  scale_color_manual(values = c("blue","red")) +
+  scale_linetype_manual(values = replicate(9, 1)) +
+  theme(legend.position = "none") +
+  labs(x = "Time", y = "Tweet Count", title = " ")
+```
+
+
+```{r fig.height=3, echo=FALSE, fig.cap='Tweets by party.'}
+library(dygraphs); library(xts)
+
+counts <- t %>%
+  filter(created_at > "2018-01-01 00:00:00") %>%
+  mutate(Date = as.Date(created_at)) %>%
+  group_by(Date, Party) %>%
+  summarise(Count = n()) %>%
+  ungroup() %>%
+  spread(Party, Count, fill = 0, convert = T)
+  
+dailyCounts <- xts(
+  x = counts[,-1],
+  order.by = counts$Date
+)
+
+# can convert to weekly, monthly, yearly, etc
+weeklyCounts <- apply.weekly(dailyCounts, colSums)
+
+dygraph(dailyCounts, main = "NCGA Senate Candidates Tweets") %>% 
+  dyEvent("2018-05-08", "Primary Election") %>%
+  dyRoller(rollPeriod = 7) %>%
+  dyShading(from = "2018-09-24", to = "2018-09-28") %>%
+  dyShading(from = "2018-10-04", to = "2018-10-08") %>%
+  dyOptions(colors = c("blue","red"))
+```
+
+
+
+
+
+{{% alert note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /alert %}}
+
+
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visual analytics on Ryan Wesslen</title>
+    <link>/tags/visual-analytics/</link>
+    <description>Recent content in visual analytics on Ryan Wesslen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ryan Wesslen</copyright>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/visual-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Explainable AI: Opening up the black box</title>
+      <link>/talk/xai-davidson/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/xai-davidson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can You Verifi This? Studying Uncertainty and Decision-Making About Misinformation Using Visual Analytics</title>
+      <link>/publication/icwsm-2018-1/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/icwsm-2018-1/</guid>
+      <description>Verifi (below) can be accessed at https://verifi.herokuapp.com. </description>
+    </item>
+    
+    <item>
+      <title>CrystalBall: A Visual Analytic System for Future Event Discovery and Analysis from Social Media Data</title>
+      <link>/publication/vast-2017-2/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/vast-2017-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Anchoring Effect in Decision-Making with Visual Analytics</title>
+      <link>/publication/vast-2017-1/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/vast-2017-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

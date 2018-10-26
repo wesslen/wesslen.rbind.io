@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ryan Wesslen</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Ryan Wesslen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ryan Wesslen</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive biases</title>
+      <link>/tags/cognitive-biases/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/cognitive-biases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive science</title>
+      <link>/tags/cognitive-science/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/cognitive-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event detection</title>
+      <link>/tags/event-detection/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/event-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>explainable ai</title>
+      <link>/tags/explainable-ai/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/explainable-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>htmlwidgets</title>
+      <link>/tags/htmlwidgets/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/htmlwidgets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misinformation</title>
+      <link>/tags/misinformation/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/misinformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ncga</title>
+      <link>/tags/ncga/</link>
+      <pubDate>Tue, 23 Oct 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/ncga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>/tags/r/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown</title>
+      <link>/tags/rmarkdown/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-construal</title>
+      <link>/tags/self-construal/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/self-construal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>senate</title>
+      <link>/tags/senate/</link>
+      <pubDate>Tue, 23 Oct 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/senate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiny</title>
+      <link>/tags/shiny/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>signaling theory</title>
+      <link>/tags/signaling-theory/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/signaling-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>/tags/social-media/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>structural topic modeling</title>
+      <link>/tags/structural-topic-modeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/structural-topic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text analysis</title>
+      <link>/tags/text-analysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thematic analysis</title>
+      <link>/tags/thematic-analysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/thematic-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topic modeling</title>
+      <link>/tags/topic-modeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/topic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Tue, 23 Oct 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter profiles</title>
+      <link>/tags/twitter-profiles/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/twitter-profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual analytics</title>
+      <link>/tags/visual-analytics/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/visual-analytics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

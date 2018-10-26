@@ -1,0 +1,12 @@
+"0","library(rtweet)"
+"2","
+Attaching package: ‘rtweet’
+
+"
+"2","The following object is masked from ‘package:purrr’:
+
+    flatten
+
+"
+"0","ts_plot(t, by = ""months"") +"
+"0","  labs(x = ""Time"", y = ""Tweet Count"", title = ""Tweets by NCGA Senate Candidates"")"
