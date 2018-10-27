@@ -47,6 +47,6 @@ weight = 5
 
 # Biography
 
-Ryan Wesslen is a PhD candidate in Computing and Information Systems at UNC Charlotte. His research focuses on integrating computer science methods with social science research: the emerging field of computational social science. His work centers on social media, text analysis, and decision-making in a range of disciplines including visual analytics, communications, management, and psychology. He is affiliated with the UNCC's Data Science Initiative, Charlotte Visualization Center, and the Pacific Northwest National Laboratory. 
+Ryan Wesslen is a PhD candidate in Computing and Information Systems at UNC Charlotte. His research focuses on integrating computer science methods with social science research: the emerging field of computational social science. His work centers on social media, text analysis, and decision-making in a range of disciplines including visual analytics, communications, management, and psychology. He is affiliated with UNCC's Data Science Initiative, Charlotte Visualization Center, and the Pacific Northwest National Laboratory. 
 
 Previously, Ryan worked at Bank of America in a variety of roles analyzing, modeling and managing credit risk for auto, small business, credit card and derivative products. He also worked for Publicis Hawkeye, a specialized marketing agency, providing analytics and strategy solutions in digital and direct marketing for corporate clients. 
