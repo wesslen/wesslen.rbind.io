@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-I am teaching Visual Analytics (DSBA5122) for [UNC Charlotte's Data Science & Business Analytics program](https://dsba.uncc.edu/) in the Spring 2019. (Materials in progress)
+I am teaching Visual Analytics (DSBA5122) for [UNC Charlotte's Data Science & Business Analytics program](https://dsba.uncc.edu/) in the Spring 2019. <https://bitly.com/dsba5122>

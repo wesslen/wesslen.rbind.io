@@ -17,8 +17,8 @@ tags: ["twitter", "senate", "ncga"]
 <script src="/rmarkdown-libs/dygraphs-binding/dygraphs.js"></script>
 
 
-<div id="r-markdown" class="section level1">
-<h1>R Markdown</h1>
+<div id="dataset" class="section level1">
+<h1>Dataset</h1>
 <p>I have a dataset of 58,120 tweets by 72 NC Senate candidates (43 Democrats, 29 Republicans).</p>
 <p><img src="/post/2018-10-28-ncga-senate_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
 </div>
@@ -44,6 +44,37 @@ Figure 2: Tweets by active districts.
 Figure 3: Tweets by party.
 </p>
 </div>
+</div>
+<div id="links" class="section level1">
+<h1>Links</h1>
+<pre class="r"><code>library(urltools)
+
+urls &lt;- filter(t, !is.na(urls_expanded_url)) %&gt;% 
+    filter(created_at &gt; &quot;2018-01-01 00:00:00&quot;) %&gt;%
+  unnest(urls_expanded_url) %&gt;% 
+  select(urls_expanded_url, is_retweet, status_id, screen_name, created_at) %&gt;%
+  mutate(domains = domain(urls_expanded_url))
+
+parsed &lt;- url_parse(urls$urls_expanded_url)
+
+urls %&gt;%
+  bind_cols(parsed) %&gt;%
+  filter(domains %in% c(&quot;youtu.be&quot;,&quot;www.youtube.com&quot;)) %&gt;%
+  select(urls_expanded_url)
+## # A tibble: 44 x 1
+##    urls_expanded_url                 
+##    &lt;chr&gt;                             
+##  1 https://youtu.be/ORmb-mwSlRU      
+##  2 https://youtu.be/cyhIA3Wq_wk      
+##  3 https://youtu.be/3qInkCeSTnU      
+##  4 https://youtu.be/w6wMu3w88cU      
+##  5 https://youtu.be/X98fM-KAdXQ?t=234
+##  6 https://youtu.be/WUND6HP1stE      
+##  7 https://youtu.be/wYZcPfZwIzE      
+##  8 https://youtu.be/jrnRU3ocIH4      
+##  9 https://youtu.be/rWNmnt3nSMM      
+## 10 https://youtu.be/T_foQoCHQq8      
+## # ... with 34 more rows</code></pre>
 <p>{{% alert note %}}
 Click on the <strong>Slides</strong> button above to view the built-in slides feature.
 {{% /alert %}}</p>

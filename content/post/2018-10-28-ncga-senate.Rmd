@@ -14,18 +14,18 @@ load("./data/ncga-senate-102018.RData")
 df$screen_name <- df$twitterUsername
 
 t <- tweets %>%
-  select(created_at, text, screen_name, retweet_count) %>%
+  select(status_id, created_at, text, screen_name, retweet_count, is_quote, is_retweet, urls_expanded_url) %>%
   left_join(df[,c(1:7,18)], c("screen_name"))
 
 t <- filter(t, !is.na(Party)) %>%
   filter(Incumbent != "Not Running")
 ```
 
-# R Markdown
+# Dataset
 
 I have a dataset of 58,120 tweets by 72 NC Senate candidates (43 Democrats, 29 Republicans). 
 
-```{r echo=FALSE, message=FALSE}
+```{r fig.height=4, echo=FALSE, message=FALSE}
 library(rtweet)
 
 ts_plot(t, by = "months") +
@@ -36,7 +36,7 @@ ts_plot(t, by = "months") +
 
 Figure \@ref(fig:chart) provides the tweets by political party.
 
-```{r chart, echo=FALSE, fig.cap='Tweets by party.', tidy=FALSE}
+```{r fig.height=4, chart, echo=FALSE, fig.cap='Tweets by party.', tidy=FALSE}
 t %>%
   group_by(Party) %>%
   ts_plot("months") +
@@ -46,7 +46,7 @@ t %>%
 ```
 
 
-```{r echo=FALSE, fig.cap='Tweets by active districts.', tidy=FALSE}
+```{r fig.height=4, echo=FALSE, fig.cap='Tweets by active districts.', tidy=FALSE}
 t %>%
   filter(created_at > "2018-01-01 00:00:00") %>%
   filter(District2018 %in% c(13,14,19,22,30,37,39,43,49)) %>%
@@ -91,6 +91,24 @@ dygraph(dailyCounts, main = "NCGA Senate Candidates Tweets") %>%
 
 
 
+# Links
+
+```{r}
+library(urltools)
+
+urls <- filter(t, !is.na(urls_expanded_url)) %>% 
+    filter(created_at > "2018-01-01 00:00:00") %>%
+  unnest(urls_expanded_url) %>% 
+  select(urls_expanded_url, is_retweet, status_id, screen_name, created_at) %>%
+  mutate(domains = domain(urls_expanded_url))
+
+parsed <- url_parse(urls$urls_expanded_url)
+
+urls %>%
+  bind_cols(parsed) %>%
+  filter(domains %in% c("youtu.be","www.youtube.com")) %>%
+  select(urls_expanded_url)
+```
 
 
 {{% alert note %}}

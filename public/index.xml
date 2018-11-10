@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Wesslen on Ryan Wesslen</title>
-    <link>/</link>
+    <link>https://wesslen.netlify.com/</link>
     <description>Recent content in Ryan Wesslen on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,37 +12,37 @@
     
     <item>
       <title>NC Senate Tweets</title>
-      <link>/post/2018-10-28-ncga-senate/</link>
+      <link>https://wesslen.netlify.com/post/2018-10-28-ncga-senate/</link>
       <pubDate>Tue, 23 Oct 2018 21:13:14 -0500</pubDate>
       
-      <guid>/post/2018-10-28-ncga-senate/</guid>
-      <description>&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/dygraphs/dygraph.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/dygraphs/dygraph-combined.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/dygraphs/shapes.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/moment/moment.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/moment-timezone/moment-timezone-with-data.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/moment-fquarter/moment-fquarter.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/dygraphs-binding/dygraphs.js&#34;&gt;&lt;/script&gt;
+      <guid>https://wesslen.netlify.com/post/2018-10-28-ncga-senate/</guid>
+      <description>&lt;script src=&#34;https://wesslen.netlify.com/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://wesslen.netlify.com/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://wesslen.netlify.com/rmarkdown-libs/dygraphs/dygraph.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://wesslen.netlify.com/rmarkdown-libs/dygraphs/dygraph-combined.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://wesslen.netlify.com/rmarkdown-libs/dygraphs/shapes.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://wesslen.netlify.com/rmarkdown-libs/moment/moment.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://wesslen.netlify.com/rmarkdown-libs/moment-timezone/moment-timezone-with-data.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://wesslen.netlify.com/rmarkdown-libs/moment-fquarter/moment-fquarter.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://wesslen.netlify.com/rmarkdown-libs/dygraphs-binding/dygraphs.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;div id=&#34;dataset&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Dataset&lt;/h1&gt;
 &lt;p&gt;I have a dataset of 58,120 tweets by 72 NC Senate candidates (43 Democrats, 29 Republicans).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2018-10-28-ncga-senate_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesslen.netlify.com/post/2018-10-28-ncga-senate_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;tweet-by-party&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Tweet by Party&lt;/h1&gt;
 &lt;p&gt;Figure &lt;a href=&#34;#fig:chart&#34;&gt;1&lt;/a&gt; provides the tweets by political party.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:chart&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2018-10-28-ncga-senate_files/figure-html/chart-1.png&#34; alt=&#34;Tweets by party.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://wesslen.netlify.com/post/2018-10-28-ncga-senate_files/figure-html/chart-1.png&#34; alt=&#34;Tweets by party.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Tweets by party.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-2&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2018-10-28-ncga-senate_files/figure-html/unnamed-chunk-2-1.png&#34; alt=&#34;Tweets by active districts.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://wesslen.netlify.com/post/2018-10-28-ncga-senate_files/figure-html/unnamed-chunk-2-1.png&#34; alt=&#34;Tweets by active districts.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 2: Tweets by active districts.
 &lt;/p&gt;
@@ -54,6 +54,37 @@ Figure 2: Tweets by active districts.
 Figure 3: Tweets by party.
 &lt;/p&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;links&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Links&lt;/h1&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(urltools)
+
+urls &amp;lt;- filter(t, !is.na(urls_expanded_url)) %&amp;gt;% 
+    filter(created_at &amp;gt; &amp;quot;2018-01-01 00:00:00&amp;quot;) %&amp;gt;%
+  unnest(urls_expanded_url) %&amp;gt;% 
+  select(urls_expanded_url, is_retweet, status_id, screen_name, created_at) %&amp;gt;%
+  mutate(domains = domain(urls_expanded_url))
+
+parsed &amp;lt;- url_parse(urls$urls_expanded_url)
+
+urls %&amp;gt;%
+  bind_cols(parsed) %&amp;gt;%
+  filter(domains %in% c(&amp;quot;youtu.be&amp;quot;,&amp;quot;www.youtube.com&amp;quot;)) %&amp;gt;%
+  select(urls_expanded_url)
+## # A tibble: 44 x 1
+##    urls_expanded_url                 
+##    &amp;lt;chr&amp;gt;                             
+##  1 https://youtu.be/ORmb-mwSlRU      
+##  2 https://youtu.be/cyhIA3Wq_wk      
+##  3 https://youtu.be/3qInkCeSTnU      
+##  4 https://youtu.be/w6wMu3w88cU      
+##  5 https://youtu.be/X98fM-KAdXQ?t=234
+##  6 https://youtu.be/WUND6HP1stE      
+##  7 https://youtu.be/wYZcPfZwIzE      
+##  8 https://youtu.be/jrnRU3ocIH4      
+##  9 https://youtu.be/rWNmnt3nSMM      
+## 10 https://youtu.be/T_foQoCHQq8      
+## # ... with 34 more rows&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
 
@@ -65,19 +96,19 @@ Figure 3: Tweets by party.
     
     <item>
       <title>Explainable AI: Opening up the black box</title>
-      <link>/talk/xai-davidson/</link>
+      <link>https://wesslen.netlify.com/talk/xai-davidson/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/xai-davidson/</guid>
+      <guid>https://wesslen.netlify.com/talk/xai-davidson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <link>https://wesslen.netlify.com/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>https://wesslen.netlify.com/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -94,39 +125,29 @@ Figure 3: Tweets by party.
     
     <item>
       <title>Interactive Visualizations with RStudio Workshops</title>
-      <link>/talk/dsi-interactive-viz/</link>
+      <link>https://wesslen.netlify.com/talk/dsi-interactive-viz/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/dsi-interactive-viz/</guid>
+      <guid>https://wesslen.netlify.com/talk/dsi-interactive-viz/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;protests.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Bumper Stickers on the Twitter Highway: Analyzing the Speed and Substance of Profile Changes</title>
-      <link>/publication/icwsm-2018-2/</link>
+      <link>https://wesslen.netlify.com/publication/icwsm-2018-2/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/icwsm-2018-2/</guid>
+      <guid>https://wesslen.netlify.com/publication/icwsm-2018-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can You Verifi This? Studying Uncertainty and Decision-Making About Misinformation Using Visual Analytics</title>
-      <link>/publication/icwsm-2018-1/</link>
+      <link>https://wesslen.netlify.com/publication/icwsm-2018-1/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/icwsm-2018-1/</guid>
+      <guid>https://wesslen.netlify.com/publication/icwsm-2018-1/</guid>
       <description>&lt;p&gt;Verifi (below) can be accessed at &lt;a href=&#34;https://verifi.herokuapp.com&#34; target=&#34;_blank&#34;&gt;https://verifi.herokuapp.com&lt;/a&gt;.
 &lt;img src=&#34;./verifi.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
@@ -134,46 +155,46 @@ Figure 3: Tweets by party.
     
     <item>
       <title>A Review of Best Practice Recommendations for Text Analysis in R (and a User-Friendly App)</title>
-      <link>/publication/tmm-2018/</link>
+      <link>https://wesslen.netlify.com/publication/tmm-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/tmm-2018/</guid>
+      <guid>https://wesslen.netlify.com/publication/tmm-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CrystalBall: A Visual Analytic System for Future Event Discovery and Analysis from Social Media Data</title>
-      <link>/publication/vast-2017-2/</link>
+      <link>https://wesslen.netlify.com/publication/vast-2017-2/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>/publication/vast-2017-2/</guid>
+      <guid>https://wesslen.netlify.com/publication/vast-2017-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Anchoring Effect in Decision-Making with Visual Analytics</title>
-      <link>/publication/vast-2017-1/</link>
+      <link>https://wesslen.netlify.com/publication/vast-2017-1/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>/publication/vast-2017-1/</guid>
+      <guid>https://wesslen.netlify.com/publication/vast-2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/project/external-project/</link>
+      <link>https://wesslen.netlify.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>https://wesslen.netlify.com/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <link>https://wesslen.netlify.com/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/internal-project/</guid>
+      <guid>https://wesslen.netlify.com/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -188,10 +209,10 @@ Figure 3: Tweets by party.
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://wesslen.netlify.com/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://wesslen.netlify.com/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
@@ -414,10 +435,10 @@ git submodule update --init --recursive
     
     <item>
       <title>Slides</title>
-      <link>/slides/example-slides/</link>
+      <link>https://wesslen.netlify.com/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example-slides/</guid>
+      <guid>https://wesslen.netlify.com/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
