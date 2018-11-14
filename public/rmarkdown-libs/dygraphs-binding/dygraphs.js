@@ -48,11 +48,6 @@ HTMLWidgets.widget({
         // get dygraph attrs and populate file field
         var attrs = x.attrs;
         attrs.file = x.data;
-	      
-	// disable zoom interaction except for clicks
-        if (attrs.disableZoom) {
-          attrs.interactionModel = Dygraph.Interaction.nonInteractiveModel_;
-        }
         
         // convert non-arrays to arrays
         for (var index = 0; index < attrs.file.length; index++) {
@@ -146,21 +141,6 @@ HTMLWidgets.widget({
         if (x.dataHandler) {
           attrs.dataHandler = Dygraph.DataHandlers[x.dataHandler];
         }
-
-        // custom circles
-        if (x.pointShape) {
-          if (typeof x.pointShape === 'string') {
-            attrs.drawPointCallback = Dygraph.Circles[x.pointShape.toUpperCase()];
-            attrs.drawHighlightPointCallback = Dygraph.Circles[x.pointShape.toUpperCase()];
-          } else {
-            for (var s in x.pointShape) {
-              if (x.pointShape.hasOwnProperty(s)) {
-                attrs.series[s].drawPointCallback = Dygraph.Circles[x.pointShape[s].toUpperCase()];
-                attrs.series[s].drawHighlightPointCallback = Dygraph.Circles[x.pointShape[s].toUpperCase()];
-              }
-            }
-          }
-        }
     
         // if there is no existing dygraph perform initialization
         if (!dygraph) {
@@ -228,7 +208,7 @@ HTMLWidgets.widget({
         }
         
         // create the dygraph and add it to it's group (if any)
-        dygraph = thiz.dygraph = new Dygraph(el, attrs.file, attrs);
+        dygraph = new Dygraph(el, attrs.file, attrs);
         dygraph.userDateWindow = attrs.dateWindow;
         if (x.group != null)
           groups[x.group].push(dygraph);
@@ -777,7 +757,7 @@ HTMLWidgets.widget({
       },
       
       // export dygraph so other code can get a hold of it
-      dygraph: null
+      dygraph: dygraph
     
     };
   },
