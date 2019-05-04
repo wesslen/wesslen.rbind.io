@@ -6,9 +6,18 @@
     <description>Recent content in Ryan Wesslen on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ryan Wesslen</copyright>
+    <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Towards rapid interactive machine learning: evaluating tradeoffs of classification without representation</title>
+      <link>https://wesslen.netlify.com/publication/iui-2019-1/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.com/publication/iui-2019-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explainable AI: Opening up the black box</title>

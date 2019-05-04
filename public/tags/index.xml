@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ryan Wesslen</copyright>
+    <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://wesslen.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -36,6 +36,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active learning</title>
+      <link>https://wesslen.netlify.com/tags/active-learning/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.com/tags/active-learning/</guid>
       <description></description>
     </item>
     
@@ -85,6 +94,15 @@
     </item>
     
     <item>
+      <title>interactive machine learning</title>
+      <link>https://wesslen.netlify.com/tags/interactive-machine-learning/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.com/tags/interactive-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>machine learning</title>
       <link>https://wesslen.netlify.com/tags/machine-learning/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
@@ -108,6 +126,15 @@
       <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>representation-free classifier</title>
+      <link>https://wesslen.netlify.com/tags/representation-free-classifier/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.com/tags/representation-free-classifier/</guid>
       <description></description>
     </item>
     
@@ -207,6 +234,15 @@
       <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/visual-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual interactive labeling</title>
+      <link>https://wesslen.netlify.com/tags/visual-interactive-labeling/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.com/tags/visual-interactive-labeling/</guid>
       <description></description>
     </item>
     

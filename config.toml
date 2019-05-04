@@ -13,7 +13,7 @@ title = "Ryan Wesslen"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Ryan Wesslen"
+copyright = "&copy; 2019 Ryan Wesslen"
 
 theme = "hugo-academic"
 enableEmoji = true
