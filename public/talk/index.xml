@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -1000</lastBuildDate>
     
 	<atom:link href="https://wesslen.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Explainable AI: Opening up the black box</title>
       <link>https://wesslen.netlify.com/talk/xai-davidson/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/talk/xai-davidson/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Interactive Visualizations with RStudio Workshops</title>
       <link>https://wesslen.netlify.com/talk/dsi-interactive-viz/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/talk/dsi-interactive-viz/</guid>
       <description></description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 -1000</lastBuildDate>
     
 	<atom:link href="https://wesslen.netlify.com/tags/cognitive-science/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Explainable AI: Opening up the black box</title>
       <link>https://wesslen.netlify.com/talk/xai-davidson/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/talk/xai-davidson/</guid>
       <description></description>

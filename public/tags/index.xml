@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -1000</lastBuildDate>
     
 	<atom:link href="https://wesslen.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Academic</title>
       <link>https://wesslen.netlify.com/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/academic/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Deep Learning</title>
       <link>https://wesslen.netlify.com/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/deep-learning/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Demo</title>
       <link>https://wesslen.netlify.com/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/demo/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>active learning</title>
       <link>https://wesslen.netlify.com/tags/active-learning/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/active-learning/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>cognitive biases</title>
       <link>https://wesslen.netlify.com/tags/cognitive-biases/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/cognitive-biases/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>cognitive science</title>
       <link>https://wesslen.netlify.com/tags/cognitive-science/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/cognitive-science/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>event detection</title>
       <link>https://wesslen.netlify.com/tags/event-detection/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/event-detection/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>explainable ai</title>
       <link>https://wesslen.netlify.com/tags/explainable-ai/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/explainable-ai/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>htmlwidgets</title>
       <link>https://wesslen.netlify.com/tags/htmlwidgets/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/htmlwidgets/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>interactive machine learning</title>
       <link>https://wesslen.netlify.com/tags/interactive-machine-learning/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/interactive-machine-learning/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>machine learning</title>
       <link>https://wesslen.netlify.com/tags/machine-learning/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/machine-learning/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>misinformation</title>
       <link>https://wesslen.netlify.com/tags/misinformation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/misinformation/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>r</title>
       <link>https://wesslen.netlify.com/tags/r/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/r/</guid>
       <description></description>
@@ -132,7 +132,7 @@
     <item>
       <title>representation-free classifier</title>
       <link>https://wesslen.netlify.com/tags/representation-free-classifier/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/representation-free-classifier/</guid>
       <description></description>
@@ -141,7 +141,7 @@
     <item>
       <title>rmarkdown</title>
       <link>https://wesslen.netlify.com/tags/rmarkdown/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/rmarkdown/</guid>
       <description></description>
@@ -150,7 +150,7 @@
     <item>
       <title>self-construal</title>
       <link>https://wesslen.netlify.com/tags/self-construal/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/self-construal/</guid>
       <description></description>
@@ -159,7 +159,7 @@
     <item>
       <title>shiny</title>
       <link>https://wesslen.netlify.com/tags/shiny/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/shiny/</guid>
       <description></description>
@@ -168,7 +168,7 @@
     <item>
       <title>signaling theory</title>
       <link>https://wesslen.netlify.com/tags/signaling-theory/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/signaling-theory/</guid>
       <description></description>
@@ -177,7 +177,7 @@
     <item>
       <title>social media</title>
       <link>https://wesslen.netlify.com/tags/social-media/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/social-media/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>structural topic modeling</title>
       <link>https://wesslen.netlify.com/tags/structural-topic-modeling/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/structural-topic-modeling/</guid>
       <description></description>
@@ -195,7 +195,7 @@
     <item>
       <title>text analysis</title>
       <link>https://wesslen.netlify.com/tags/text-analysis/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/text-analysis/</guid>
       <description></description>
@@ -204,7 +204,7 @@
     <item>
       <title>thematic analysis</title>
       <link>https://wesslen.netlify.com/tags/thematic-analysis/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/thematic-analysis/</guid>
       <description></description>
@@ -213,7 +213,7 @@
     <item>
       <title>topic modeling</title>
       <link>https://wesslen.netlify.com/tags/topic-modeling/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/topic-modeling/</guid>
       <description></description>
@@ -222,7 +222,7 @@
     <item>
       <title>twitter profiles</title>
       <link>https://wesslen.netlify.com/tags/twitter-profiles/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/twitter-profiles/</guid>
       <description></description>
@@ -231,7 +231,7 @@
     <item>
       <title>visual analytics</title>
       <link>https://wesslen.netlify.com/tags/visual-analytics/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/visual-analytics/</guid>
       <description></description>
@@ -240,7 +240,7 @@
     <item>
       <title>visual interactive labeling</title>
       <link>https://wesslen.netlify.com/tags/visual-interactive-labeling/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tags/visual-interactive-labeling/</guid>
       <description></description>

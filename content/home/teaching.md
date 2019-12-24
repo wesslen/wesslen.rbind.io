@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-12-22T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-I am teaching Visual Analytics (DSBA5122) for [UNC Charlotte's Data Science & Business Analytics program](https://dsba.uncc.edu/) in the Spring 2019. <https://bitly.com/dsba5122>
+I have taught DSBA5122 (Visual Analytics) in UNC Charlotte's Master's in Data Science and Business Analytics course. [Spring 2019](https://dsba5122-spring2019.netlify.com/) / [Fall 2019](https://dsba5122-fall2019.netlify.com/)

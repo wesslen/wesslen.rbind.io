@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -1000</lastBuildDate>
     
 	<atom:link href="https://wesslen.netlify.com/tags/text-analysis/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>A Review of Best Practice Recommendations for Text Analysis in R (and a User-Friendly App)</title>
       <link>https://wesslen.netlify.com/publication/tmm-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/tmm-2018/</guid>
       <description></description>

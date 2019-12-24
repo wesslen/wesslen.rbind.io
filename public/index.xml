@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -1000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Investigating Effects of Visual Anchors on Decision-Making about Misinformation</title>
       <link>https://wesslen.netlify.com/publication/eurovis-2019/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/eurovis-2019/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Towards rapid interactive machine learning: evaluating tradeoffs of classification without representation</title>
       <link>https://wesslen.netlify.com/publication/iui-2019-1/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/iui-2019-1/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Explainable AI: Opening up the black box</title>
       <link>https://wesslen.netlify.com/talk/xai-davidson/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/talk/xai-davidson/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title>Example Page</title>
       <link>https://wesslen.netlify.com/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/tutorial/example/</guid>
       <description>
@@ -60,7 +60,7 @@
     <item>
       <title>Interactive Visualizations with RStudio Workshops</title>
       <link>https://wesslen.netlify.com/talk/dsi-interactive-viz/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/talk/dsi-interactive-viz/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;protests.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -70,7 +70,7 @@
     <item>
       <title>Bumper Stickers on the Twitter Highway: Analyzing the Speed and Substance of Profile Changes</title>
       <link>https://wesslen.netlify.com/publication/icwsm-2018-2/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/icwsm-2018-2/</guid>
       <description></description>
@@ -79,7 +79,7 @@
     <item>
       <title>Can You Verifi This? Studying Uncertainty and Decision-Making About Misinformation Using Visual Analytics</title>
       <link>https://wesslen.netlify.com/publication/icwsm-2018-1/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/icwsm-2018-1/</guid>
       <description>&lt;p&gt;Verifi (below) can be accessed at &lt;a href=&#34;https://verifi.herokuapp.com&#34; target=&#34;_blank&#34;&gt;https://verifi.herokuapp.com&lt;/a&gt;.
@@ -90,7 +90,7 @@
     <item>
       <title>A Review of Best Practice Recommendations for Text Analysis in R (and a User-Friendly App)</title>
       <link>https://wesslen.netlify.com/publication/tmm-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/tmm-2018/</guid>
       <description></description>
@@ -99,7 +99,7 @@
     <item>
       <title>CrystalBall: A Visual Analytic System for Future Event Discovery and Analysis from Social Media Data</title>
       <link>https://wesslen.netlify.com/publication/vast-2017-2/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/vast-2017-2/</guid>
       <description></description>
@@ -108,7 +108,7 @@
     <item>
       <title>The Anchoring Effect in Decision-Making with Visual Analytics</title>
       <link>https://wesslen.netlify.com/publication/vast-2017-1/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/vast-2017-1/</guid>
       <description></description>
@@ -117,7 +117,7 @@
     <item>
       <title>External Project</title>
       <link>https://wesslen.netlify.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/project/external-project/</guid>
       <description></description>
@@ -126,7 +126,7 @@
     <item>
       <title>Internal Project</title>
       <link>https://wesslen.netlify.com/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -144,7 +144,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://wesslen.netlify.com/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/post/getting-started/</guid>
       <description>

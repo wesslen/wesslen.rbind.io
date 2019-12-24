@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -1000</lastBuildDate>
     
 	<atom:link href="https://wesslen.netlify.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Investigating Effects of Visual Anchors on Decision-Making about Misinformation</title>
       <link>https://wesslen.netlify.com/publication/eurovis-2019/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/eurovis-2019/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Towards rapid interactive machine learning: evaluating tradeoffs of classification without representation</title>
       <link>https://wesslen.netlify.com/publication/iui-2019-1/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/iui-2019-1/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Bumper Stickers on the Twitter Highway: Analyzing the Speed and Substance of Profile Changes</title>
       <link>https://wesslen.netlify.com/publication/icwsm-2018-2/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/icwsm-2018-2/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Can You Verifi This? Studying Uncertainty and Decision-Making About Misinformation Using Visual Analytics</title>
       <link>https://wesslen.netlify.com/publication/icwsm-2018-1/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/icwsm-2018-1/</guid>
       <description>Verifi (below) can be accessed at https://verifi.herokuapp.com. </description>
@@ -51,7 +51,7 @@
     <item>
       <title>A Review of Best Practice Recommendations for Text Analysis in R (and a User-Friendly App)</title>
       <link>https://wesslen.netlify.com/publication/tmm-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/tmm-2018/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>CrystalBall: A Visual Analytic System for Future Event Discovery and Analysis from Social Media Data</title>
       <link>https://wesslen.netlify.com/publication/vast-2017-2/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/vast-2017-2/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>The Anchoring Effect in Decision-Making with Visual Analytics</title>
       <link>https://wesslen.netlify.com/publication/vast-2017-1/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -1000</pubDate>
       
       <guid>https://wesslen.netlify.com/publication/vast-2017-1/</guid>
       <description></description>

@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-10-24T00:00:00
+date = 2019-12-22T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Computational social science",
-    "R",
+    "Human-Computer Interaction",
     "Visual analytics",
-    "Text-as-data",
+    "Cognitive science",
+    "Natural language processing",
     "Social media"
   ]
 
@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD Candidate in Computing & Information Systems"
   institution = "UNC Charlotte"
-  year = 2019
+  year = 2020
 
 [[education.courses]]
   course = "MS in Data Science & Business Analytics"
@@ -47,6 +47,7 @@ weight = 5
 
 # Biography
 
-Ryan Wesslen is a PhD candidate in Computing and Information Systems at UNC Charlotte. His research focuses on integrating computer science methods with social science research: the emerging field of computational social science. His work centers on social media, text analysis, and decision-making in a range of disciplines including visual analytics, communications, management, and psychology. He is affiliated with UNCC's Data Science Initiative, Charlotte Visualization Center, and the Pacific Northwest National Laboratory. 
+Ryan Wesslen is a Senior Vice President / Senior Data Scientist for Bank of America's Chief Data Science Organization. In this role, he works in the Natural Language Processing team that provides NLP solutions for various bank lines-of-business. 
 
-Previously, Ryan worked at Bank of America in a variety of roles analyzing, modeling and managing credit risk for auto, small business, credit card and derivative products. He also worked for Publicis Hawkeye, a specialized marketing agency, providing analytics and strategy solutions in digital and direct marketing for corporate clients. 
+He is also an Associate Graduate Faculty member in UNC Charlotte's School of Data Science as well as a PhD candidate in Computing and Information Systems at UNC Charlotte. His research studies human-in-the-loop decision-making in ways data visualization and interactive interfaces can be combined with machine learning to enable better decision-making. He has past research affiliations with UNCC's Data Science Initiative, Charlotte Visualization Center, and the Pacific Northwest National Laboratory. 
+
