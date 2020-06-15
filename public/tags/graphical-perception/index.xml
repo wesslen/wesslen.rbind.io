@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graphical perception on Ryan Wesslen</title>
+    <link>https://wesslen.netlify.app/tags/graphical-perception/</link>
+    <description>Recent content in graphical perception on Ryan Wesslen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Ryan Wesslen</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://wesslen.netlify.app/tags/graphical-perception/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Du Bois Wrapped Bar Chart: Visualizing Categorical Data with Disproportionate Values</title>
+      <link>https://wesslen.netlify.app/publication/chi-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/publication/chi-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

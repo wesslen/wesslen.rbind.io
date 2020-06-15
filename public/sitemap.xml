@@ -262,7 +262,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/cognitive-biases/</loc>
-      <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -297,8 +297,26 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/tags/graphical-perception/</loc>
+      <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/tags/htmlwidgets/</loc>
       <lastmod>2018-07-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wesslen.netlify.app/tags/information-visualization/</loc>
+      <lastmod>2020-04-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -324,8 +342,17 @@
     
     <url>
     
-      <loc>https://wesslen.netlify.app/tags/misinformation/</loc>
+      <loc>https://wesslen.netlify.app/tags/mechanical-turk/</loc>
       <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wesslen.netlify.app/tags/misinformation/</loc>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -442,7 +469,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/visual-analytics/</loc>
-      <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

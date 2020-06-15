@@ -38,7 +38,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["visual analytics","cognitive biases","misinformation"]
+tags = ["graphical perception", "information visualization", "mechanical turk"]
 
 # Links (optional).
 url_pdf = "https://dl.acm.org/doi/abs/10.1145/3313831.3376365"
