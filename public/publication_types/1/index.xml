@@ -2,67 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Ryan Wesslen</title>
-    <link>https://wesslen.netlify.com/publication_types/1/</link>
+    <link>https://wesslen.netlify.app/publication_types/1/</link>
     <description>Recent content in 1 on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 -1000</lastBuildDate>
+    <copyright>&amp;copy; 2020 Ryan Wesslen</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://wesslen.netlify.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wesslen.netlify.app/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Investigating Effects of Visual Anchors on Decision-Making about Misinformation</title>
-      <link>https://wesslen.netlify.com/publication/eurovis-2019/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -1000</pubDate>
+      <title>Du Bois Wrapped Bar Chart: Visualizing Categorical Data with Disproportionate Values</title>
+      <link>https://wesslen.netlify.app/publication/chi-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/publication/eurovis-2019/</guid>
+      <guid>https://wesslen.netlify.app/publication/chi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Effects of Visual Anchors on Decision-Making about Misinformation</title>
+      <link>https://wesslen.netlify.app/publication/eurovis-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/publication/eurovis-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards rapid interactive machine learning: evaluating tradeoffs of classification without representation</title>
-      <link>https://wesslen.netlify.com/publication/iui-2019-1/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/publication/iui-2019-1/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/publication/iui-2019-1/</guid>
+      <guid>https://wesslen.netlify.app/publication/iui-2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bumper Stickers on the Twitter Highway: Analyzing the Speed and Substance of Profile Changes</title>
-      <link>https://wesslen.netlify.com/publication/icwsm-2018-2/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/publication/icwsm-2018-2/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/publication/icwsm-2018-2/</guid>
+      <guid>https://wesslen.netlify.app/publication/icwsm-2018-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can You Verifi This? Studying Uncertainty and Decision-Making About Misinformation Using Visual Analytics</title>
-      <link>https://wesslen.netlify.com/publication/icwsm-2018-1/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/publication/icwsm-2018-1/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/publication/icwsm-2018-1/</guid>
+      <guid>https://wesslen.netlify.app/publication/icwsm-2018-1/</guid>
       <description>Verifi (below) can be accessed at https://verifi.herokuapp.com. </description>
     </item>
     
     <item>
       <title>CrystalBall: A Visual Analytic System for Future Event Discovery and Analysis from Social Media Data</title>
-      <link>https://wesslen.netlify.com/publication/vast-2017-2/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/publication/vast-2017-2/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/publication/vast-2017-2/</guid>
+      <guid>https://wesslen.netlify.app/publication/vast-2017-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Anchoring Effect in Decision-Making with Visual Analytics</title>
-      <link>https://wesslen.netlify.com/publication/vast-2017-1/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/publication/vast-2017-1/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/publication/vast-2017-1/</guid>
+      <guid>https://wesslen.netlify.app/publication/vast-2017-1/</guid>
       <description></description>
     </item>
     

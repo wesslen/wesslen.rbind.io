@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cognitive science on Ryan Wesslen</title>
-    <link>https://wesslen.netlify.com/tags/cognitive-science/</link>
+    <link>https://wesslen.netlify.app/tags/cognitive-science/</link>
     <description>Recent content in cognitive science on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 -1000</lastBuildDate>
+    <copyright>&amp;copy; 2020 Ryan Wesslen</copyright>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://wesslen.netlify.com/tags/cognitive-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wesslen.netlify.app/tags/cognitive-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Explainable AI: Opening up the black box</title>
-      <link>https://wesslen.netlify.com/talk/xai-davidson/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/talk/xai-davidson/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/talk/xai-davidson/</guid>
+      <guid>https://wesslen.netlify.app/talk/xai-davidson/</guid>
       <description></description>
     </item>
     

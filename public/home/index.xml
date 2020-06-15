@@ -2,149 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Ryan Wesslen</title>
-    <link>https://wesslen.netlify.com/home/</link>
+    <link>https://wesslen.netlify.app/home/</link>
     <description>Recent content in Homes on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -1000</lastBuildDate>
+    <copyright>&amp;copy; 2020 Ryan Wesslen</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://wesslen.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wesslen.netlify.app/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://wesslen.netlify.com/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/hero_carousel/</guid>
+      <guid>https://wesslen.netlify.app/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://wesslen.netlify.com/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/hero/</guid>
+      <guid>https://wesslen.netlify.app/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://wesslen.netlify.com/home/about/</link>
-      <pubDate>Sun, 22 Dec 2019 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/about/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/about/</guid>
-      <description>Biography Ryan Wesslen is a Senior Vice President / Senior Data Scientist for Bank of America&amp;rsquo;s Chief Data Science Organization. In this role, he works in the Natural Language Processing team that provides NLP solutions for various bank lines-of-business.
-He is also an Associate Graduate Faculty member in UNC Charlotte&amp;rsquo;s School of Data Science as well as a PhD candidate in Computing and Information Systems at UNC Charlotte. His research studies human-in-the-loop decision-making in ways data visualization and interactive interfaces can be combined with machine learning to enable better decision-making.</description>
+      <guid>https://wesslen.netlify.app/home/about/</guid>
+      <description>Biography Ryan Wesslen is a Senior Vice President; Senior Data Scientist for Bank of America&amp;rsquo;s Chief Data Scientist Organization. In this role, he manages the Natural Language Processing (NLP) team that provides NLP solutions for different bank organizations.
+He is also an Associate Graduate Faculty member in UNC Charlotte&amp;rsquo;s School of Data Science as well as a PhD candidate in Computing and Information Systems at UNC Charlotte. His research studies human-in-the-loop decision-making in ways data visualization and interactive interfaces can be combined with machine learning and cognitive science.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>https://wesslen.netlify.com/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/skills/</guid>
+      <guid>https://wesslen.netlify.app/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://wesslen.netlify.com/home/experience/</link>
+      <link>https://wesslen.netlify.app/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/experience/</guid>
+      <guid>https://wesslen.netlify.app/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://wesslen.netlify.com/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/publications_selected/</guid>
+      <guid>https://wesslen.netlify.app/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://wesslen.netlify.com/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/publications/</guid>
+      <guid>https://wesslen.netlify.app/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://wesslen.netlify.com/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/talks_selected/</guid>
+      <guid>https://wesslen.netlify.app/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://wesslen.netlify.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/talks/</guid>
+      <guid>https://wesslen.netlify.app/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://wesslen.netlify.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/posts/</guid>
+      <guid>https://wesslen.netlify.app/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://wesslen.netlify.com/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/projects/</guid>
+      <guid>https://wesslen.netlify.app/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://wesslen.netlify.com/home/teaching/</link>
-      <pubDate>Sun, 22 Dec 2019 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/teaching/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/teaching/</guid>
+      <guid>https://wesslen.netlify.app/home/teaching/</guid>
       <description>I have taught DSBA5122 (Visual Analytics) in UNC Charlotte&amp;rsquo;s Master&amp;rsquo;s in Data Science and Business Analytics course. Spring 2019 / Fall 2019</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://wesslen.netlify.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/tags/</guid>
+      <guid>https://wesslen.netlify.app/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://wesslen.netlify.com/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/search/</guid>
+      <guid>https://wesslen.netlify.app/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://wesslen.netlify.com/home/contact/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/home/contact/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/home/contact/</guid>
+      <guid>https://wesslen.netlify.app/home/contact/</guid>
       <description></description>
     </item>
     

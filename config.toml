@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://wesslen.netlify.com/"
+baseurl = "https://wesslen.netlify.app/"
 
 # Title of your site
 title = "Ryan Wesslen"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Ryan Wesslen"
+copyright = "&copy; 2020 Ryan Wesslen"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -53,11 +53,11 @@ enableGitInfo = false
   # Your details.
   name = "Ryan Wesslen"
 
-  role = "PhD Candidate in Computing and Information Systems"
+  role = "SVP; Senior Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "UNCC College of Computing & Informatics", url = "https://cci.uncc.edu/" } ]
+  organizations = [ { name = "Bank of America" }, {name = "UNC Charlotte", url = "https://datascience.uncc.edu/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

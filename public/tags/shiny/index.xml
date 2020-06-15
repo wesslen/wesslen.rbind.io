@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shiny on Ryan Wesslen</title>
-    <link>https://wesslen.netlify.com/tags/shiny/</link>
+    <link>https://wesslen.netlify.app/tags/shiny/</link>
     <description>Recent content in shiny on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Ryan Wesslen</copyright>
-    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 -1000</lastBuildDate>
+    <copyright>&amp;copy; 2020 Ryan Wesslen</copyright>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://wesslen.netlify.com/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wesslen.netlify.app/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interactive Visualizations with RStudio Workshops</title>
-      <link>https://wesslen.netlify.com/talk/dsi-interactive-viz/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -1000</pubDate>
+      <link>https://wesslen.netlify.app/talk/dsi-interactive-viz/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.com/talk/dsi-interactive-viz/</guid>
+      <guid>https://wesslen.netlify.app/talk/dsi-interactive-viz/</guid>
       <description></description>
     </item>
     

@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Human-Computer Interaction",
+    "Human-computer interaction",
+    "Natural language processing",
     "Visual analytics",
     "Cognitive science",
-    "Natural language processing",
     "Social media"
   ]
 
@@ -47,7 +47,7 @@ weight = 5
 
 # Biography
 
-Ryan Wesslen is a Senior Vice President / Senior Data Scientist for Bank of America's Chief Data Scientist Organization. In this role, he works in the Natural Language Processing team that provides NLP solutions for different bank teams. 
+Ryan Wesslen is a Senior Vice President; Senior Data Scientist for Bank of America's Chief Data Scientist Organization. In this role, he manages the Natural Language Processing (NLP) team that provides NLP solutions for different bank organizations. 
 
 He is also an Associate Graduate Faculty member in UNC Charlotte's School of Data Science as well as a PhD candidate in Computing and Information Systems at UNC Charlotte. His research studies human-in-the-loop decision-making in ways data visualization and interactive interfaces can be combined with machine learning and cognitive science. He has past research affiliations with UNCC's Data Science Initiative, Charlotte Visualization Center, and the Pacific Northwest National Laboratory. 
 
