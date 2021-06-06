@@ -1,6 +1,6 @@
 +++
 title = "A Bayesian cognition approach for belief updating of correlation judgement through uncertainty visualizations"
-date = 2020-08-15T00:00:00
+date = 2020-10-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

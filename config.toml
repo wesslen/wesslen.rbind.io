@@ -13,7 +13,7 @@ title = "Ryan Wesslen"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2020 Ryan Wesslen"
+copyright = "&copy; 2021 Ryan Wesslen"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -226,7 +226,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 2
+    talk_format = 0
 
   # Social/Academic Networking
   #
@@ -249,7 +249,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:rwesslen@uncc.edu"
+    link = "mailto:rwesslen@gmail.com"
 
   [[params.social]]
     icon = "twitter"
@@ -276,7 +276,7 @@ enableGitInfo = false
   [[params.social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "files/cv.pdf"
+   #link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
