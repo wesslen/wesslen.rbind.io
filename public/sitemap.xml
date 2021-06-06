@@ -4,8 +4,16 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/talk/2021-analytics-frontiers/</loc>
+      <lastmod>2021-04-22T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/publication/infovis-2020/</loc>
-      <lastmod>2020-08-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -36,7 +44,7 @@
     
     <url>
     
-      <loc>https://wesslen.netlify.app/talk/xai-davidson/</loc>
+      <loc>https://wesslen.netlify.app/talk/exai-davidson/</loc>
       <lastmod>2018-10-16T00:00:00-04:00</lastmod>
     </url>
     
@@ -157,7 +165,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/publication_types/1/</loc>
-      <lastmod>2020-08-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -219,7 +227,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/publication_types/</loc>
-      <lastmod>2020-08-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -270,7 +278,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/bayesian-modeling/</loc>
-      <lastmod>2020-08-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -279,7 +287,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/belief-elicitation/</loc>
-      <lastmod>2020-08-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -297,7 +305,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/cognitive-science/</loc>
-      <lastmod>2018-10-16T00:00:00-04:00</lastmod>
+      <lastmod>2021-04-22T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -306,7 +314,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/correlations/</loc>
-      <lastmod>2020-08-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -350,8 +358,17 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/tags/human-computer-interaction/</loc>
+      <lastmod>2021-04-22T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/tags/information-visualization/</loc>
-      <lastmod>2020-08-15T00:00:00-04:00</lastmod>
+      <lastmod>2021-04-22T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -503,8 +520,17 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/tags/uncertainty-visualization/</loc>
+      <lastmod>2021-04-22T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/tags/uncertainty-visualizations/</loc>
-      <lastmod>2020-08-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

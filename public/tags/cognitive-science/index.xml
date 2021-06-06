@@ -6,18 +6,27 @@
     <description>Recent content in cognitive science on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Ryan Wesslen</copyright>
-    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy; 2021 Ryan Wesslen</copyright>
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://wesslen.netlify.app/tags/cognitive-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Uncertainty visualizations for improving data science decision-making: How I learned to stop worrying and love uncertainty (by visualizing it)</title>
+      <link>https://wesslen.netlify.app/talk/2021-analytics-frontiers/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/talk/2021-analytics-frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Explainable AI: Opening up the black box</title>
-      <link>https://wesslen.netlify.app/talk/xai-davidson/</link>
+      <link>https://wesslen.netlify.app/talk/exai-davidson/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://wesslen.netlify.app/talk/xai-davidson/</guid>
+      <guid>https://wesslen.netlify.app/talk/exai-davidson/</guid>
       <description></description>
     </item>
     

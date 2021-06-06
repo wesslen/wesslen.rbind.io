@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>human-computer interaction on Ryan Wesslen</title>
+    <link>https://wesslen.netlify.app/tags/human-computer-interaction/</link>
+    <description>Recent content in human-computer interaction on Ryan Wesslen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Ryan Wesslen</copyright>
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://wesslen.netlify.app/tags/human-computer-interaction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uncertainty visualizations for improving data science decision-making: How I learned to stop worrying and love uncertainty (by visualizing it)</title>
+      <link>https://wesslen.netlify.app/talk/2021-analytics-frontiers/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/talk/2021-analytics-frontiers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

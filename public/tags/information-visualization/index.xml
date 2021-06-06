@@ -6,16 +6,25 @@
     <description>Recent content in information visualization on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Ryan Wesslen</copyright>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy; 2021 Ryan Wesslen</copyright>
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://wesslen.netlify.app/tags/information-visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Uncertainty visualizations for improving data science decision-making: How I learned to stop worrying and love uncertainty (by visualizing it)</title>
+      <link>https://wesslen.netlify.app/talk/2021-analytics-frontiers/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/talk/2021-analytics-frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Bayesian cognition approach for belief updating of correlation judgement through uncertainty visualizations</title>
       <link>https://wesslen.netlify.app/publication/infovis-2020/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/publication/infovis-2020/</guid>
       <description></description>

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Ryan Wesslen</copyright>
+    <copyright>&amp;copy; 2021 Ryan Wesslen</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://wesslen.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -51,7 +51,7 @@
     <item>
       <title>bayesian modeling</title>
       <link>https://wesslen.netlify.app/tags/bayesian-modeling/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/bayesian-modeling/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>belief elicitation</title>
       <link>https://wesslen.netlify.app/tags/belief-elicitation/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/belief-elicitation/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>cognitive science</title>
       <link>https://wesslen.netlify.app/tags/cognitive-science/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/cognitive-science/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>correlations</title>
       <link>https://wesslen.netlify.app/tags/correlations/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/correlations/</guid>
       <description></description>
@@ -130,9 +130,18 @@
     </item>
     
     <item>
+      <title>human-computer interaction</title>
+      <link>https://wesslen.netlify.app/tags/human-computer-interaction/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/human-computer-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>information visualization</title>
       <link>https://wesslen.netlify.app/tags/information-visualization/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/information-visualization/</guid>
       <description></description>
@@ -283,9 +292,18 @@
     </item>
     
     <item>
+      <title>uncertainty visualization</title>
+      <link>https://wesslen.netlify.app/tags/uncertainty-visualization/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/uncertainty-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>uncertainty visualizations</title>
       <link>https://wesslen.netlify.app/tags/uncertainty-visualizations/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/uncertainty-visualizations/</guid>
       <description></description>
