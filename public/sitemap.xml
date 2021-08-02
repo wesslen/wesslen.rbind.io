@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/talk/dissertation-defense/</loc>
+      <lastmod>2021-07-23T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wesslen.netlify.app/publication/vis-2021/</loc>
+      <lastmod>2021-07-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/talk/2021-analytics-frontiers/</loc>
       <lastmod>2021-04-22T00:00:00-04:00</lastmod>
     </url>
@@ -165,7 +181,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/publication_types/1/</loc>
-      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
+      <lastmod>2021-07-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -227,7 +243,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/publication_types/</loc>
-      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
+      <lastmod>2021-07-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -296,7 +312,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/cognitive-biases/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+      <lastmod>2021-07-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -305,7 +321,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/cognitive-science/</loc>
-      <lastmod>2021-04-22T00:00:00-04:00</lastmod>
+      <lastmod>2021-07-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -315,6 +331,15 @@
     
       <loc>https://wesslen.netlify.app/tags/correlations/</loc>
       <lastmod>2020-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wesslen.netlify.app/tags/equity-premium-puzzle/</loc>
+      <lastmod>2021-07-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -358,8 +383,17 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/tags/human-centered-artificial-intelligence/</loc>
+      <lastmod>2021-07-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/tags/human-computer-interaction/</loc>
-      <lastmod>2021-04-22T00:00:00-04:00</lastmod>
+      <lastmod>2021-07-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -368,7 +402,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/information-visualization/</loc>
-      <lastmod>2021-04-22T00:00:00-04:00</lastmod>
+      <lastmod>2021-07-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -412,6 +446,15 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/tags/myopic-loss-aversion/</loc>
+      <lastmod>2021-07-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/tags/r/</loc>
       <lastmod>2018-07-18T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -423,6 +466,15 @@
     
       <loc>https://wesslen.netlify.app/tags/representation-free-classifier/</loc>
       <lastmod>2019-03-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wesslen.netlify.app/tags/retirement-investing/</loc>
+      <lastmod>2021-07-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -530,7 +582,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/uncertainty-visualizations/</loc>
-      <lastmod>2020-10-15T00:00:00-04:00</lastmod>
+      <lastmod>2021-07-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -539,7 +591,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/visual-analytics/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+      <lastmod>2021-07-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
