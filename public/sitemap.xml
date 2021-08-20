@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/publication/vis-2021-2/</loc>
+      <lastmod>2021-08-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/talk/dissertation-defense/</loc>
       <lastmod>2021-07-23T00:00:00-04:00</lastmod>
     </url>
@@ -181,7 +189,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/publication_types/1/</loc>
-      <lastmod>2021-07-15T00:00:00-04:00</lastmod>
+      <lastmod>2021-08-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -243,7 +251,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/publication_types/</loc>
-      <lastmod>2021-07-15T00:00:00-04:00</lastmod>
+      <lastmod>2021-08-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -338,6 +346,15 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/tags/dataset/</loc>
+      <lastmod>2021-08-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/tags/equity-premium-puzzle/</loc>
       <lastmod>2021-07-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -412,6 +429,15 @@
     
       <loc>https://wesslen.netlify.app/tags/interactive-machine-learning/</loc>
       <lastmod>2019-03-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wesslen.netlify.app/tags/literature-review/</loc>
+      <lastmod>2021-08-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -563,6 +589,15 @@
     
     <url>
     
+      <loc>https://wesslen.netlify.app/tags/transformers/</loc>
+      <lastmod>2021-08-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wesslen.netlify.app/tags/twitter-profiles/</loc>
       <lastmod>2018-06-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -591,7 +626,7 @@
     <url>
     
       <loc>https://wesslen.netlify.app/tags/visual-analytics/</loc>
-      <lastmod>2021-07-23T00:00:00-04:00</lastmod>
+      <lastmod>2021-08-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -601,6 +636,24 @@
     
       <loc>https://wesslen.netlify.app/tags/visual-interactive-labeling/</loc>
       <lastmod>2019-03-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wesslen.netlify.app/tags/web-scraper/</loc>
+      <lastmod>2021-08-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wesslen.netlify.app/tags/word-embeddings/</loc>
+      <lastmod>2021-08-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>VitaLITy: Promoting Serendipitous Discovery of Academic Literature with Transformers &amp; Visual Analytics</title>
+      <link>https://wesslen.netlify.app/publication/vis-2021-2/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/publication/vis-2021-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cognitive biases in decision-making under uncertainty with interactive data visualizations</title>
       <link>https://wesslen.netlify.app/talk/dissertation-defense/</link>
       <pubDate>Fri, 23 Jul 2021 00:00:00 -0400</pubDate>
@@ -147,15 +156,6 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/publication/vast-2017-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Anchoring Effect in Decision-Making with Visual Analytics</title>
-      <link>https://wesslen.netlify.app/publication/vast-2017-1/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/publication/vast-2017-1/</guid>
       <description></description>
     </item>
     

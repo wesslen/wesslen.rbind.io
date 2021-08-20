@@ -94,6 +94,15 @@
     </item>
     
     <item>
+      <title>dataset</title>
+      <link>https://wesslen.netlify.app/tags/dataset/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>equity premium puzzle</title>
       <link>https://wesslen.netlify.app/tags/equity-premium-puzzle/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 -0400</pubDate>
@@ -171,6 +180,15 @@
       <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/interactive-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature review</title>
+      <link>https://wesslen.netlify.app/tags/literature-review/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/literature-review/</guid>
       <description></description>
     </item>
     
@@ -319,6 +337,15 @@
     </item>
     
     <item>
+      <title>transformers</title>
+      <link>https://wesslen.netlify.app/tags/transformers/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/transformers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>twitter profiles</title>
       <link>https://wesslen.netlify.app/tags/twitter-profiles/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
@@ -348,7 +375,7 @@
     <item>
       <title>visual analytics</title>
       <link>https://wesslen.netlify.app/tags/visual-analytics/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/visual-analytics/</guid>
       <description></description>
@@ -360,6 +387,24 @@
       <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/visual-interactive-labeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web scraper</title>
+      <link>https://wesslen.netlify.app/tags/web-scraper/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/web-scraper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word embeddings</title>
+      <link>https://wesslen.netlify.app/tags/word-embeddings/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/word-embeddings/</guid>
       <description></description>
     </item>
     
