@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Ryan Wesslen</title>
@@ -6,16 +6,12 @@
     <description>Recent content in Homes on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Ryan Wesslen</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://wesslen.netlify.app/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2022 Ryan Wesslen</copyright>
+    <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://wesslen.netlify.app/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://wesslen.netlify.app/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/hero_carousel/</guid>
       <description></description>
@@ -24,25 +20,25 @@
     <item>
       <title>Academic</title>
       <link>https://wesslen.netlify.app/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀</description>
     </item>
     
     <item>
       <title></title>
       <link>https://wesslen.netlify.app/home/about/</link>
-      <pubDate>Sun, 22 Dec 2019 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/about/</guid>
-      <description>Biography Ryan Wesslen is a computational social scientist whose research focuses on human-centered data science to investigate ways data visualization and interactive interfaces can be combined with machine learning and behavioral sciences (psychology, behavioral economics, cognitive science). He is currently an Associate Graduate Faculty member in UNC Charlotte&amp;rsquo;s School of Data Science. He has past research affiliations with UNCC&amp;rsquo;s Data Science Initiative, Charlotte Visualization Center, and the Pacific Northwest National Laboratory.</description>
+      <description>Biography Ryan Wesslen is a data scientist, researcher, and educator. His research focuses on human-centered data science to investigate ways data visualization and interactive interfaces can be combined with machine learning and behavioral sciences (psychology, behavioral economics, cognitive science). He is currently an Associate Graduate Faculty member in UNC Charlotte&amp;rsquo;s School of Data Science. He has past research affiliations with UNCC&amp;rsquo;s Data Science Initiative, Charlotte Visualization Center, and the Pacific Northwest National Laboratory.</description>
     </item>
     
     <item>
       <title>Skills</title>
       <link>https://wesslen.netlify.app/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/skills/</guid>
       <description></description>
@@ -60,7 +56,7 @@
     <item>
       <title>Selected Publications</title>
       <link>https://wesslen.netlify.app/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/publications_selected/</guid>
       <description></description>
@@ -69,7 +65,7 @@
     <item>
       <title>Recent Publications</title>
       <link>https://wesslen.netlify.app/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/publications/</guid>
       <description></description>
@@ -78,7 +74,7 @@
     <item>
       <title>Selected Talks</title>
       <link>https://wesslen.netlify.app/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/talks_selected/</guid>
       <description></description>
@@ -87,7 +83,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://wesslen.netlify.app/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/talks/</guid>
       <description></description>
@@ -96,7 +92,7 @@
     <item>
       <title>Recent Posts</title>
       <link>https://wesslen.netlify.app/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/posts/</guid>
       <description></description>
@@ -105,7 +101,7 @@
     <item>
       <title>Projects</title>
       <link>https://wesslen.netlify.app/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/projects/</guid>
       <description></description>
@@ -114,16 +110,17 @@
     <item>
       <title>Teaching</title>
       <link>https://wesslen.netlify.app/home/teaching/</link>
-      <pubDate>Sun, 22 Dec 2019 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/teaching/</guid>
-      <description>I have taught DSBA5122 (Visual Analytics) in UNC Charlotte&amp;rsquo;s Master&amp;rsquo;s in Data Science and Business Analytics course. Spring 2019 / Fall 2019</description>
+      <description>For the Spring 2022, I am teaching DSBA6010 / STAT7027: Bayesian Statistics (Special Topics in DSBA/STAT) at UNC Charlotte.
+I have taught DSBA5122 (Visual Analytics) in UNC Charlotte&amp;rsquo;s Master&amp;rsquo;s in Data Science and Business Analytics course. Spring 2019 / Fall 2019</description>
     </item>
     
     <item>
       <title>Tags</title>
       <link>https://wesslen.netlify.app/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/tags/</guid>
       <description></description>
@@ -132,7 +129,7 @@
     <item>
       <title>Search</title>
       <link>https://wesslen.netlify.app/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/search/</guid>
       <description></description>
@@ -141,7 +138,7 @@
     <item>
       <title>Contact</title>
       <link>https://wesslen.netlify.app/home/contact/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/home/contact/</guid>
       <description></description>

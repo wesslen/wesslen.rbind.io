@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text analysis on Ryan Wesslen</title>
@@ -6,16 +6,12 @@
     <description>Recent content in text analysis on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Ryan Wesslen</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://wesslen.netlify.app/tags/text-analysis/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2022 Ryan Wesslen</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://wesslen.netlify.app/tags/text-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Review of Best Practice Recommendations for Text Analysis in R (and a User-Friendly App)</title>
       <link>https://wesslen.netlify.app/publication/tmm-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/publication/tmm-2018/</guid>
       <description></description>

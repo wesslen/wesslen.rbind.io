@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ryan Wesslen</title>
@@ -6,394 +6,48 @@
     <description>Recent content in Tags on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Ryan Wesslen</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://wesslen.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Academic</title>
-      <link>https://wesslen.netlify.app/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://wesslen.netlify.app/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://wesslen.netlify.app/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>active learning</title>
-      <link>https://wesslen.netlify.app/tags/active-learning/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/active-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bayesian modeling</title>
-      <link>https://wesslen.netlify.app/tags/bayesian-modeling/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/bayesian-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>belief elicitation</title>
-      <link>https://wesslen.netlify.app/tags/belief-elicitation/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/belief-elicitation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cognitive biases</title>
-      <link>https://wesslen.netlify.app/tags/cognitive-biases/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/cognitive-biases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cognitive science</title>
-      <link>https://wesslen.netlify.app/tags/cognitive-science/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/cognitive-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>correlations</title>
-      <link>https://wesslen.netlify.app/tags/correlations/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/correlations/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>&amp;copy; 2022 Ryan Wesslen</copyright>
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wesslen.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dataset</title>
       <link>https://wesslen.netlify.app/tags/dataset/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/dataset/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>equity premium puzzle</title>
-      <link>https://wesslen.netlify.app/tags/equity-premium-puzzle/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/equity-premium-puzzle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>event detection</title>
-      <link>https://wesslen.netlify.app/tags/event-detection/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/event-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>explainable ai</title>
-      <link>https://wesslen.netlify.app/tags/explainable-ai/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/explainable-ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graphical perception</title>
-      <link>https://wesslen.netlify.app/tags/graphical-perception/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/graphical-perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>htmlwidgets</title>
-      <link>https://wesslen.netlify.app/tags/htmlwidgets/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/htmlwidgets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>human-centered artificial intelligence</title>
-      <link>https://wesslen.netlify.app/tags/human-centered-artificial-intelligence/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/human-centered-artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>human-computer interaction</title>
-      <link>https://wesslen.netlify.app/tags/human-computer-interaction/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/human-computer-interaction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>information visualization</title>
-      <link>https://wesslen.netlify.app/tags/information-visualization/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/information-visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interactive machine learning</title>
-      <link>https://wesslen.netlify.app/tags/interactive-machine-learning/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/interactive-machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>literature review</title>
       <link>https://wesslen.netlify.app/tags/literature-review/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/literature-review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>machine learning</title>
-      <link>https://wesslen.netlify.app/tags/machine-learning/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mechanical turk</title>
-      <link>https://wesslen.netlify.app/tags/mechanical-turk/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/mechanical-turk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misinformation</title>
-      <link>https://wesslen.netlify.app/tags/misinformation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/misinformation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>myopic loss aversion</title>
-      <link>https://wesslen.netlify.app/tags/myopic-loss-aversion/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/myopic-loss-aversion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>r</title>
-      <link>https://wesslen.netlify.app/tags/r/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>representation-free classifier</title>
-      <link>https://wesslen.netlify.app/tags/representation-free-classifier/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/representation-free-classifier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>retirement investing</title>
-      <link>https://wesslen.netlify.app/tags/retirement-investing/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/retirement-investing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rmarkdown</title>
-      <link>https://wesslen.netlify.app/tags/rmarkdown/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/rmarkdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>self-construal</title>
-      <link>https://wesslen.netlify.app/tags/self-construal/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/self-construal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shiny</title>
-      <link>https://wesslen.netlify.app/tags/shiny/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/shiny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>signaling theory</title>
-      <link>https://wesslen.netlify.app/tags/signaling-theory/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/signaling-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social media</title>
-      <link>https://wesslen.netlify.app/tags/social-media/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>structural topic modeling</title>
-      <link>https://wesslen.netlify.app/tags/structural-topic-modeling/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/structural-topic-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text analysis</title>
-      <link>https://wesslen.netlify.app/tags/text-analysis/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/text-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thematic analysis</title>
-      <link>https://wesslen.netlify.app/tags/thematic-analysis/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/thematic-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>topic modeling</title>
-      <link>https://wesslen.netlify.app/tags/topic-modeling/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/topic-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>transformers</title>
       <link>https://wesslen.netlify.app/tags/transformers/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/transformers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>twitter profiles</title>
-      <link>https://wesslen.netlify.app/tags/twitter-profiles/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/twitter-profiles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>uncertainty visualization</title>
-      <link>https://wesslen.netlify.app/tags/uncertainty-visualization/</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/uncertainty-visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>uncertainty visualizations</title>
-      <link>https://wesslen.netlify.app/tags/uncertainty-visualizations/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/uncertainty-visualizations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>visual analytics</title>
       <link>https://wesslen.netlify.app/tags/visual-analytics/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/visual-analytics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>visual interactive labeling</title>
-      <link>https://wesslen.netlify.app/tags/visual-interactive-labeling/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://wesslen.netlify.app/tags/visual-interactive-labeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>web scraper</title>
       <link>https://wesslen.netlify.app/tags/web-scraper/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/web-scraper/</guid>
       <description></description>
@@ -402,9 +56,351 @@
     <item>
       <title>word embeddings</title>
       <link>https://wesslen.netlify.app/tags/word-embeddings/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/tags/word-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive biases</title>
+      <link>https://wesslen.netlify.app/tags/cognitive-biases/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/cognitive-biases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive science</title>
+      <link>https://wesslen.netlify.app/tags/cognitive-science/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/cognitive-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human-centered artificial intelligence</title>
+      <link>https://wesslen.netlify.app/tags/human-centered-artificial-intelligence/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/human-centered-artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human-computer interaction</title>
+      <link>https://wesslen.netlify.app/tags/human-computer-interaction/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/human-computer-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information visualization</title>
+      <link>https://wesslen.netlify.app/tags/information-visualization/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/information-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>equity premium puzzle</title>
+      <link>https://wesslen.netlify.app/tags/equity-premium-puzzle/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/equity-premium-puzzle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>myopic loss aversion</title>
+      <link>https://wesslen.netlify.app/tags/myopic-loss-aversion/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/myopic-loss-aversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retirement investing</title>
+      <link>https://wesslen.netlify.app/tags/retirement-investing/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/retirement-investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uncertainty visualizations</title>
+      <link>https://wesslen.netlify.app/tags/uncertainty-visualizations/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/uncertainty-visualizations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uncertainty visualization</title>
+      <link>https://wesslen.netlify.app/tags/uncertainty-visualization/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/uncertainty-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bayesian modeling</title>
+      <link>https://wesslen.netlify.app/tags/bayesian-modeling/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/bayesian-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>belief elicitation</title>
+      <link>https://wesslen.netlify.app/tags/belief-elicitation/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/belief-elicitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>correlations</title>
+      <link>https://wesslen.netlify.app/tags/correlations/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/correlations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphical perception</title>
+      <link>https://wesslen.netlify.app/tags/graphical-perception/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/graphical-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mechanical turk</title>
+      <link>https://wesslen.netlify.app/tags/mechanical-turk/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/mechanical-turk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misinformation</title>
+      <link>https://wesslen.netlify.app/tags/misinformation/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/misinformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active learning</title>
+      <link>https://wesslen.netlify.app/tags/active-learning/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/active-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive machine learning</title>
+      <link>https://wesslen.netlify.app/tags/interactive-machine-learning/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/interactive-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>representation-free classifier</title>
+      <link>https://wesslen.netlify.app/tags/representation-free-classifier/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/representation-free-classifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual interactive labeling</title>
+      <link>https://wesslen.netlify.app/tags/visual-interactive-labeling/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/visual-interactive-labeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>explainable ai</title>
+      <link>https://wesslen.netlify.app/tags/explainable-ai/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/explainable-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://wesslen.netlify.app/tags/machine-learning/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>htmlwidgets</title>
+      <link>https://wesslen.netlify.app/tags/htmlwidgets/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/htmlwidgets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>https://wesslen.netlify.app/tags/r/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown</title>
+      <link>https://wesslen.netlify.app/tags/rmarkdown/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiny</title>
+      <link>https://wesslen.netlify.app/tags/shiny/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-construal</title>
+      <link>https://wesslen.netlify.app/tags/self-construal/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/self-construal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>signaling theory</title>
+      <link>https://wesslen.netlify.app/tags/signaling-theory/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/signaling-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>https://wesslen.netlify.app/tags/social-media/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter profiles</title>
+      <link>https://wesslen.netlify.app/tags/twitter-profiles/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/twitter-profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>structural topic modeling</title>
+      <link>https://wesslen.netlify.app/tags/structural-topic-modeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/structural-topic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text analysis</title>
+      <link>https://wesslen.netlify.app/tags/text-analysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thematic analysis</title>
+      <link>https://wesslen.netlify.app/tags/thematic-analysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/thematic-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topic modeling</title>
+      <link>https://wesslen.netlify.app/tags/topic-modeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/topic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event detection</title>
+      <link>https://wesslen.netlify.app/tags/event-detection/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/event-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://wesslen.netlify.app/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://wesslen.netlify.app/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://wesslen.netlify.app/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesslen.netlify.app/tags/academic/</guid>
       <description></description>
     </item>
     

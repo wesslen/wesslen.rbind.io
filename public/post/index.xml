@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ryan Wesslen</title>
@@ -6,21 +6,15 @@
     <description>Recent content in Posts on Ryan Wesslen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Ryan Wesslen</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://wesslen.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2022 Ryan Wesslen</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://wesslen.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://wesslen.netlify.app/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://wesslen.netlify.app/post/getting-started/</guid>
-      <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
-Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
- View the documentation Ask a question Request a feature or report a bug Updating?</description>
+      <description>Create a beautifully simple website or blog in under 10 minutes.</description>
     </item>
     
   </channel>
