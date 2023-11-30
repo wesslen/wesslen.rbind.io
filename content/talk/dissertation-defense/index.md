@@ -1,6 +1,6 @@
 +++
 title = "Cognitive biases in decision-making under uncertainty with interactive data visualizations"
-date = 2021-07-23T00:00:00  # Schedule page publish date.
+date = 2021-07-23T20:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
