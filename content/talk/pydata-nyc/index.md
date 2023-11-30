@@ -1,6 +1,6 @@
 +++
 title = "Half hour of labeling power: Can we beat GPT?"
-date = 2023-11-01T00:00:00  # Schedule page publish date.
+date = 2023-11-01T14:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
