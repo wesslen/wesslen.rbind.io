@@ -1,6 +1,6 @@
 +++
 title = "Explainable AI: Opening up the black box"
-date = 2018-10-16T18:30:00  # Schedule page publish date.
+date = 2018-10-16T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
