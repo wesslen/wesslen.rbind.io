@@ -1,6 +1,6 @@
 +++
 title = "Uncertainty visualizations for improving data science decision-making: How I learned to stop worrying and love uncertainty (by visualizing it)"
-date = 2021-04-22T00:00:00  # Schedule page publish date.
+date = 2021-04-22T10:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
