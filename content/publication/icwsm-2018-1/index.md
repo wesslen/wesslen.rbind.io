@@ -41,7 +41,7 @@ projects = []
 tags = ["visual analytics","misinformation","cognitive biases"]
 
 # Links (optional).
-url_pdf = "https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17853/17006"
+url_pdf = "https://ojs.aaai.org/index.php/ICWSM/article/view/15014"
 url_preprint = ""
 url_code = "https://github.com/wesslen/verifi-icwsm-2018"
 url_dataset = ""
